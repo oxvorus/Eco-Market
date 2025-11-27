@@ -1,0 +1,119 @@
+{
+  "brand": "ecomarket",
+  "theme": "zero-waste",
+  "colors": {
+    "primary": {
+      "50": { "value": "#f0fdf4", "type": "color", "description": "Eco green lightest" },
+      "100": { "value": "#dcfce7", "type": "color", "description": "Eco green lighter" },
+      "500": { "value": "#22c55e", "type": "color", "description": "Eco green main" },
+      "600": { "value": "#16a34a", "type": "color", "description": "Eco green dark" },
+      "700": { "value": "#15803d", "type": "color", "description": "Eco green darker" },
+      "800": { "value": "#166534", "type": "color", "description": "Eco green darkest" },
+      "900": { "value": "#14532d", "type": "color", "description": "Eco green deepest" }
+    },
+    "secondary": {
+      "emerald-50": { "value": "#ecfdf5", "type": "color" },
+      "emerald-100": { "value": "#d1fae5", "type": "color" },
+      "emerald-500": { "value": "#10b981", "type": "color" },
+      "emerald-600": { "value": "#059669", "type": "color" },
+      "amber-100": { "value": "#fef3c7", "type": "color" },
+      "amber-500": { "value": "#f59e0b", "type": "color" },
+      "blue-100": { "value": "#dbeafe", "type": "color" },
+      "blue-500": { "value": "#3b82f6", "type": "color" }
+    },
+    "neutral": {
+      "white": { "value": "#ffffff", "type": "color" },
+      "50": { "value": "#f9fafb", "type": "color" },
+      "100": { "value": "#f3f4f6", "type": "color" },
+      "200": { "value": "#e5e7eb", "type": "color" },
+      "300": { "value": "#d1d5db", "type": "color" },
+      "400": { "value": "#9ca3af", "type": "color" },
+      "500": { "value": "#6b7280", "type": "color" },
+      "600": { "value": "#4b5563", "type": "color" },
+      "700": { "value": "#374151", "type": "color" },
+      "800": { "value": "#1f2937", "type": "color" },
+      "900": { "value": "#111827", "type": "color" },
+      "black": { "value": "#000000", "type": "color" }
+    },
+    "semantic": {
+      "refuse": { "value": "#ef4444", "type": "color", "principle": "Refuse - Say no to unnecessary items" },
+      "reduce": { "value": "#f97316", "type": "color", "principle": "Reduce - Minimize consumption" },
+      "reuse": { "value": "#3b82f6", "type": "color", "principle": "Reuse - Give items second life" },
+      "recycle": { "value": "#22c55e", "type": "color", "principle": "Recycle - Process materials" },
+      "rot": { "value": "#f59e0b", "type": "color", "principle": "Rot - Compost organic waste" },
+      "success": { "value": "#10b981", "type": "color" },
+      "warning": { "value": "#eab308", "type": "color" },
+      "error": { "value": "#ef4444", "type": "color" },
+      "info": { "value": "#06b6d4", "type": "color" }
+    }
+  },
+  "spacing": {
+    "0": { "value": "0px", "type": "spacing" },
+    "1": { "value": "4px", "type": "spacing" },
+    "2": { "value": "8px", "type": "spacing" },
+    "3": { "value": "12px", "type": "spacing" },
+    "4": { "value": "16px", "type": "spacing" },
+    "5": { "value": "20px", "type": "spacing" },
+    "6": { "value": "24px", "type": "spacing" },
+    "8": { "value": "32px", "type": "spacing" },
+    "10": { "value": "40px", "type": "spacing" },
+    "12": { "value": "48px", "type": "spacing" },
+    "16": { "value": "64px", "type": "spacing" },
+    "20": { "value": "80px", "type": "spacing" },
+    "24": { "value": "96px", "type": "spacing" },
+    "32": { "value": "128px", "type": "spacing" }
+  },
+  "borderRadius": {
+    "none": { "value": "0px", "type": "borderRadius" },
+    "sm": { "value": "2px", "type": "borderRadius" },
+    "default": { "value": "4px", "type": "borderRadius" },
+    "md": { "value": "6px", "type": "borderRadius" },
+    "lg": { "value": "8px", "type": "borderRadius" },
+    "xl": { "value": "12px", "type": "borderRadius" },
+    "2xl": { "value": "16px", "type": "borderRadius" },
+    "3xl": { "value": "24px", "type": "borderRadius" },
+    "full": { "value": "9999px", "type": "borderRadius" }
+  },
+  "typography": {
+    "fontFamily": {
+      "primary": { "value": "Inter, system-ui, sans-serif", "type": "fontFamilies" },
+      "mono": { "value": "ui-monospace, 'Courier New', monospace", "type": "fontFamilies" }
+    },
+    "fontSize": {
+      "xs": { "value": "12px", "type": "fontSizes" },
+      "sm": { "value": "14px", "type": "fontSizes" },
+      "base": { "value": "16px", "type": "fontSizes" },
+      "lg": { "value": "18px", "type": "fontSizes" },
+      "xl": { "value": "20px", "type": "fontSizes" },
+      "2xl": { "value": "24px", "type": "fontSizes" },
+      "3xl": { "value": "30px", "type": "fontSizes" },
+      "4xl": { "value": "36px", "type": "fontSizes" },
+      "6xl": { "value": "60px", "type": "fontSizes" }
+    },
+    "fontWeight": {
+      "normal": { "value": "400", "type": "fontWeights" },
+      "medium": { "value": "500", "type": "fontWeights" },
+      "semibold": { "value": "600", "type": "fontWeights" },
+      "bold": { "value": "700", "type": "fontWeights" }
+    },
+    "lineHeight": {
+      "tight": { "value": "1.25", "type": "lineHeights" },
+      "normal": { "value": "1.5", "type": "lineHeights" },
+      "relaxed": { "value": "1.625", "type": "lineHeights" }
+    }
+  },
+  "shadows": {
+    "sm": { "value": "0 1px 2px 0 rgb(0 0 0 / 0.05)", "type": "boxShadow" },
+    "default": { "value": "0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1)", "type": "boxShadow" },
+    "md": { "value": "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)", "type": "boxShadow" },
+    "lg": { "value": "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)", "type": "boxShadow" },
+    "xl": { "value": "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)", "type": "boxShadow" },
+    "2xl": { "value": "0 25px 50px -12px rgb(0 0 0 / 0.25)", "type": "boxShadow" }
+  },
+  "ecoMetrics": {
+    "wasteReduction": { "value": "kg", "type": "unit", "description": "Waste reduction measurement" },
+    "carbonSaving": { "value": "kg CO2", "type": "unit", "description": "Carbon footprint reduction" },
+    "ecoScore": { "value": "0-100", "type": "scale", "description": "Environmental impact score" },
+    "recyclingRate": { "value": "percentage", "type": "metric", "description": "Recycling efficiency rate" }
+  }
+}
